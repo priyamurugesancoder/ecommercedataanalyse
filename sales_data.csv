@@ -1,0 +1,501 @@
+Order ID,Product Name,Category,Price,Quantity,Total Amount,Timestamp,Payment Method,Customer ID,Region
+1,Smartwatch,Accessories,499,1,499,2025-03-12 02:52:07,PayPal,C3549,North
+2,Kettle,Apparel,301,5,1505,2025-03-21 07:35:07,Credit Card,C6560,West
+3,T-shirt,Footwear,391,5,1955,2025-03-09 00:17:07,PayPal,C5616,West
+4,Curtains,Sports,343,2,686,2025-03-20 11:08:07,Bank Transfer,C9667,South
+5,Jacket,Electronics,88,3,264,2025-03-24 17:27:07,Bank Transfer,C4503,West
+6,Blender,Sports,68,2,136,2025-03-09 01:26:07,Credit Card,C4556,South
+7,Desk Lamp,Accessories,342,1,342,2025-03-22 13:31:07,Debit Card,C9646,North
+8,Blender,Accessories,87,2,174,2025-03-03 21:31:07,Bank Transfer,C8657,West
+9,Wireless Charger,Footwear,205,2,410,2025-03-11 15:11:07,PayPal,C7144,South
+10,Pillow,Sports,356,3,1068,2025-03-07 11:46:07,Bank Transfer,C6691,North
+11,Smartphone,Apparel,124,5,620,2025-03-13 04:43:07,Credit Card,C8055,West
+12,Yoga Mat,Kitchen,339,3,1017,2025-03-19 18:39:07,Bank Transfer,C8200,North
+13,Bluetooth Speaker,Apparel,142,2,284,2025-03-04 17:50:07,PayPal,C2550,North
+14,Refrigerator,Electronics,304,3,912,2025-03-13 21:40:07,Bank Transfer,C8970,North
+15,Gaming Keyboard,Accessories,183,3,549,2025-03-07 01:36:07,Credit Card,C9688,West
+16,Wireless Charger,Accessories,391,1,391,2025-03-26 00:43:07,Credit Card,C1986,North
+17,Monitor,Accessories,21,4,84,2025-03-09 00:31:07,Bank Transfer,C3596,South
+18,Speakers,Footwear,372,3,1116,2025-03-18 01:19:07,PayPal,C5737,West
+19,Fridge,Kitchen,39,1,39,2025-03-04 00:20:07,Debit Card,C5080,East
+20,Refrigerator,Apparel,418,1,418,2025-03-12 04:03:07,Bank Transfer,C2176,West
+21,Cooking Pan,Kitchen,243,4,972,2025-03-03 05:58:07,PayPal,C8118,East
+22,Tablet,Accessories,170,1,170,2025-03-15 12:28:07,PayPal,C8680,West
+23,Water Bottle,Apparel,211,5,1055,2025-02-26 22:14:07,Credit Card,C1426,South
+24,Pillow,Kitchen,379,1,379,2025-03-24 21:02:07,PayPal,C9351,West
+25,Microwave,Electronics,395,1,395,2025-03-24 10:03:07,Bank Transfer,C4936,North
+26,Sunglasses,Apparel,41,2,82,2025-03-16 07:19:07,Debit Card,C8366,East
+27,Smart Thermostat,Accessories,278,4,1112,2025-03-18 00:46:07,Debit Card,C4594,North
+28,Curtains,Footwear,249,4,996,2025-03-21 04:03:07,Credit Card,C7014,West
+29,Yoga Mat,Apparel,20,1,20,2025-03-07 21:33:07,PayPal,C3164,East
+30,Pillow,Accessories,98,1,98,2025-03-01 06:21:07,PayPal,C1012,South
+31,Curtains,Electronics,314,3,942,2025-03-10 09:30:07,Debit Card,C5551,South
+32,Iron,Footwear,401,1,401,2025-03-12 07:48:07,PayPal,C6145,East
+33,Coffee Table,Electronics,40,5,200,2025-03-14 03:24:07,Debit Card,C1029,East
+34,Boots,Footwear,317,2,634,2025-02-28 02:50:07,PayPal,C7295,South
+35,Wireless Charger,Apparel,443,5,2215,2025-03-06 21:16:07,Debit Card,C9989,West
+36,Smartwatch,Accessories,316,5,1580,2025-03-09 01:37:07,Debit Card,C3949,North
+37,Sandals,Electronics,486,3,1458,2025-03-23 08:09:07,Debit Card,C8810,East
+38,Laptop,Electronics,430,2,860,2025-03-11 06:46:07,PayPal,C9272,North
+39,Sofa,Sports,39,1,39,2025-03-16 18:49:07,Bank Transfer,C8684,East
+40,Hair Dryer,Apparel,125,1,125,2025-03-12 18:51:07,Bank Transfer,C5811,South
+41,Juicer,Apparel,35,2,70,2025-03-03 21:59:07,Bank Transfer,C9392,North
+42,Juicer,Accessories,251,4,1004,2025-03-16 01:52:07,PayPal,C6524,South
+43,Blender,Kitchen,52,2,104,2025-03-12 13:46:07,Bank Transfer,C8261,South
+44,Tablet,Accessories,398,4,1592,2025-03-20 22:17:07,Credit Card,C6895,South
+45,Tablet,Accessories,360,1,360,2025-03-23 16:25:07,Bank Transfer,C7604,West
+46,Armchair,Apparel,297,1,297,2025-03-23 17:26:07,Credit Card,C2404,South
+47,Fridge,Electronics,37,2,74,2025-02-26 03:07:07,Bank Transfer,C5680,East
+48,Iron,Footwear,426,3,1278,2025-03-18 18:24:07,Credit Card,C3256,East
+49,Sunglasses,Apparel,214,5,1070,2025-03-15 05:34:07,Bank Transfer,C6909,East
+50,Laptop,Apparel,399,2,798,2025-03-26 14:53:07,PayPal,C8551,West
+51,Smart Thermostat,Electronics,479,4,1916,2025-03-01 19:56:07,PayPal,C5901,West
+52,Headphones,Sports,223,2,446,2025-02-28 03:05:07,Debit Card,C2160,East
+53,Monitor,Accessories,272,3,816,2025-03-20 03:09:07,PayPal,C2834,North
+54,Pillow,Sports,433,1,433,2025-03-08 15:55:07,PayPal,C1167,East
+55,Sneakers,Kitchen,146,5,730,2025-03-02 17:51:07,Credit Card,C8374,West
+56,Air Purifier,Sports,141,5,705,2025-03-23 04:41:07,Debit Card,C9357,East
+57,Charger,Footwear,204,5,1020,2025-03-11 20:35:07,Debit Card,C5861,West
+58,Iron,Electronics,487,4,1948,2025-02-28 10:15:07,Debit Card,C9318,West
+59,Wireless Charger,Apparel,496,3,1488,2025-03-09 23:41:07,Bank Transfer,C1953,South
+60,Camera,Kitchen,475,4,1900,2025-03-08 14:52:07,Credit Card,C4137,East
+61,Iron,Electronics,414,4,1656,2025-03-24 03:29:07,PayPal,C2582,South
+62,Armchair,Kitchen,26,3,78,2025-03-17 00:46:07,Debit Card,C7829,West
+63,Sandals,Sports,80,2,160,2025-03-10 12:31:07,Debit Card,C5735,South
+64,Fridge,Kitchen,478,5,2390,2025-03-15 06:03:07,Credit Card,C2607,East
+65,Juicer,Sports,297,3,891,2025-02-27 01:09:07,Credit Card,C2870,South
+66,Sandals,Apparel,289,2,578,2025-03-26 04:34:07,Debit Card,C7371,South
+67,Laptop Stand,Footwear,43,3,129,2025-03-18 03:08:07,PayPal,C7084,East
+68,Gaming Keyboard,Footwear,215,3,645,2025-03-14 21:03:07,Credit Card,C8296,South
+69,Hat,Kitchen,366,1,366,2025-03-09 08:08:07,Debit Card,C6763,South
+70,Camera,Apparel,401,5,2005,2025-03-24 01:25:07,PayPal,C7432,North
+71,Refrigerator,Apparel,262,3,786,2025-03-16 02:40:07,Bank Transfer,C1786,West
+72,Sunglasses,Apparel,122,4,488,2025-03-18 08:09:07,Bank Transfer,C9981,West
+73,Smartwatch,Kitchen,70,1,70,2025-02-26 01:29:07,Bank Transfer,C8957,South
+74,Smart Scale,Electronics,287,2,574,2025-03-22 21:58:07,Credit Card,C3505,North
+75,Wireless Mouse,Accessories,112,2,224,2025-02-27 08:30:07,Bank Transfer,C6223,West
+76,Smartphone,Kitchen,271,2,542,2025-03-11 13:07:07,Bank Transfer,C6858,South
+77,Kettle,Footwear,307,3,921,2025-03-01 06:10:07,Debit Card,C8302,North
+78,Sandals,Footwear,195,3,585,2025-03-01 01:46:07,Credit Card,C2086,West
+79,Bluetooth Earbuds,Apparel,131,3,393,2025-03-01 02:45:07,Credit Card,C2356,West
+80,Jacket,Electronics,113,4,452,2025-03-27 06:37:07,Bank Transfer,C4414,North
+81,Jacket,Footwear,90,1,90,2025-03-18 21:40:07,Bank Transfer,C3926,North
+82,Desk Lamp,Footwear,224,1,224,2025-03-20 13:59:07,Credit Card,C3745,South
+83,Sunglasses,Accessories,392,4,1568,2025-03-26 13:23:07,Credit Card,C7346,North
+84,Winter Coat,Apparel,416,4,1664,2025-03-07 05:40:07,Debit Card,C1904,North
+85,Hair Dryer,Electronics,250,1,250,2025-03-10 23:27:07,Debit Card,C7762,West
+86,Smartphone,Kitchen,100,3,300,2025-03-04 12:16:07,Bank Transfer,C3340,West
+87,Sunglasses,Footwear,192,2,384,2025-03-16 00:27:07,Bank Transfer,C8652,East
+88,Tablet,Apparel,393,2,786,2025-03-22 22:39:07,Debit Card,C1708,West
+89,Microwave,Sports,400,1,400,2025-03-14 14:12:07,Credit Card,C6112,South
+90,Boots,Electronics,493,3,1479,2025-03-02 11:15:07,PayPal,C4311,North
+91,T-shirt,Kitchen,75,4,300,2025-03-20 16:07:07,Debit Card,C1335,West
+92,Fridge,Footwear,326,3,978,2025-03-07 01:51:07,Bank Transfer,C9692,North
+93,Coffee Table,Kitchen,330,5,1650,2025-02-26 22:44:07,PayPal,C4328,East
+94,Sneakers,Electronics,234,1,234,2025-03-17 13:25:07,Credit Card,C9615,West
+95,Winter Coat,Sports,499,3,1497,2025-03-11 21:43:07,Debit Card,C3739,North
+96,Gloves,Kitchen,391,5,1955,2025-03-13 11:33:07,Bank Transfer,C4792,West
+97,Hat,Accessories,101,4,404,2025-03-02 08:54:07,PayPal,C6949,West
+98,Laptop Stand,Kitchen,426,4,1704,2025-03-14 21:47:07,Debit Card,C7455,North
+99,Gaming Keyboard,Footwear,86,4,344,2025-02-28 06:47:07,Credit Card,C1750,West
+100,Laptop Stand,Footwear,62,3,186,2025-03-09 04:50:07,Debit Card,C6215,East
+101,Yoga Mat,Footwear,148,2,296,2025-03-21 11:36:07,PayPal,C6773,West
+102,Coffee Maker,Sports,366,5,1830,2025-03-06 16:49:07,Credit Card,C5096,West
+103,Laptop,Electronics,396,2,792,2025-03-14 04:31:07,PayPal,C7640,North
+104,Tablet,Accessories,286,5,1430,2025-02-28 14:08:07,Debit Card,C2890,East
+105,Desk Lamp,Accessories,151,2,302,2025-02-26 10:51:07,Debit Card,C6895,West
+106,Gloves,Kitchen,38,4,152,2025-02-26 04:03:07,Credit Card,C6537,East
+107,Armchair,Footwear,283,5,1415,2025-03-02 23:17:07,Credit Card,C3711,East
+108,Sofa,Apparel,299,3,897,2025-03-16 09:25:07,Credit Card,C5120,North
+109,Fridge,Apparel,189,5,945,2025-03-04 01:02:07,PayPal,C8123,East
+110,Sandals,Apparel,491,4,1964,2025-03-23 00:13:07,Credit Card,C5142,East
+111,Iron,Accessories,188,4,752,2025-03-03 02:44:07,Debit Card,C6051,West
+112,Running Shoes,Apparel,194,1,194,2025-03-04 06:13:07,Bank Transfer,C2202,West
+113,Sandals,Accessories,365,2,730,2025-03-12 18:48:07,Bank Transfer,C4284,South
+114,Gloves,Kitchen,321,5,1605,2025-03-21 10:37:07,PayPal,C8596,East
+115,Kettle,Accessories,241,4,964,2025-03-17 17:21:07,PayPal,C1088,West
+116,Iron,Apparel,66,2,132,2025-03-22 21:03:07,Credit Card,C6237,North
+117,Kettle,Apparel,312,5,1560,2025-03-11 13:19:07,Credit Card,C3425,South
+118,Boots,Sports,497,4,1988,2025-03-27 07:51:07,Bank Transfer,C9165,South
+119,Cooking Pan,Electronics,92,3,276,2025-03-12 12:02:07,Credit Card,C6671,East
+120,Laptop,Footwear,244,2,488,2025-03-18 11:31:07,Debit Card,C3288,West
+121,Desk Lamp,Kitchen,492,4,1968,2025-03-21 06:01:07,Debit Card,C2372,North
+122,Water Bottle,Sports,91,4,364,2025-03-16 21:57:07,Bank Transfer,C1426,South
+123,Wireless Charger,Accessories,258,1,258,2025-03-11 07:02:07,Debit Card,C5744,East
+124,Winter Coat,Electronics,414,1,414,2025-02-25 16:06:07,Credit Card,C6266,South
+125,Kettle,Electronics,497,3,1491,2025-03-25 20:39:07,Credit Card,C1831,West
+126,Cooking Pan,Sports,16,4,64,2025-03-16 01:40:07,Bank Transfer,C8545,South
+127,Desk Lamp,Kitchen,319,5,1595,2025-03-01 05:12:07,Bank Transfer,C1336,West
+128,Bluetooth Earbuds,Apparel,58,1,58,2025-03-08 19:18:07,Credit Card,C5736,South
+129,Winter Coat,Accessories,342,5,1710,2025-03-25 09:35:07,Bank Transfer,C3059,South
+130,Sofa,Apparel,187,5,935,2025-03-14 09:00:07,Credit Card,C4963,North
+131,Headphones,Sports,367,2,734,2025-03-19 02:10:07,Debit Card,C6256,East
+132,Camera,Sports,346,1,346,2025-03-15 15:27:07,PayPal,C1599,East
+133,Pillow,Apparel,495,2,990,2025-03-01 18:22:07,Credit Card,C5141,West
+134,Desk Lamp,Electronics,307,1,307,2025-03-06 00:51:07,PayPal,C5441,North
+135,Winter Coat,Apparel,338,2,676,2025-03-10 12:26:07,Debit Card,C4741,West
+136,Headphones,Sports,154,4,616,2025-02-25 13:45:07,PayPal,C8427,West
+137,Wireless Mouse,Kitchen,61,3,183,2025-03-10 17:31:07,Credit Card,C6638,South
+138,Sofa,Apparel,497,3,1491,2025-03-02 03:33:07,Bank Transfer,C8105,South
+139,Gaming Keyboard,Footwear,116,2,232,2025-03-27 10:53:07,Bank Transfer,C6723,North
+140,Backpack,Apparel,57,2,114,2025-03-20 04:44:07,Bank Transfer,C7045,West
+141,Bluetooth Earbuds,Electronics,154,3,462,2025-03-05 20:04:07,PayPal,C9840,South
+142,Smart Scale,Footwear,472,4,1888,2025-03-06 03:11:07,PayPal,C6629,West
+143,Jacket,Accessories,326,1,326,2025-03-20 01:57:07,Credit Card,C4912,North
+144,Bluetooth Speaker,Accessories,14,5,70,2025-03-09 19:12:07,Debit Card,C6238,North
+145,Backpack,Sports,491,5,2455,2025-03-15 07:34:07,PayPal,C7846,East
+146,Microwave,Accessories,457,5,2285,2025-03-23 23:40:07,Credit Card,C9087,East
+147,Wireless Mouse,Electronics,265,5,1325,2025-03-03 02:25:07,PayPal,C9043,North
+148,Hair Dryer,Accessories,89,1,89,2025-03-05 18:05:07,Credit Card,C1926,South
+149,Bluetooth Earbuds,Apparel,47,5,235,2025-03-09 13:43:07,Credit Card,C6662,West
+150,Boots,Kitchen,476,4,1904,2025-03-16 11:07:07,Credit Card,C8925,North
+151,Sandals,Sports,198,2,396,2025-03-19 03:26:07,Debit Card,C9960,North
+152,Sunglasses,Sports,273,2,546,2025-03-19 23:41:07,Bank Transfer,C8112,East
+153,Boots,Footwear,37,2,74,2025-03-19 20:09:07,PayPal,C4874,East
+154,Smartphone,Kitchen,85,5,425,2025-03-16 08:09:07,Debit Card,C1262,North
+155,Charger,Sports,292,3,876,2025-03-04 01:23:07,Credit Card,C5958,South
+156,Coffee Maker,Accessories,275,2,550,2025-03-19 02:53:07,PayPal,C4996,East
+157,Sofa,Sports,352,5,1760,2025-03-17 00:18:07,Bank Transfer,C4115,South
+158,Sneakers,Kitchen,265,5,1325,2025-03-17 01:01:07,Credit Card,C4284,North
+159,Sofa,Accessories,26,2,52,2025-03-02 19:43:07,PayPal,C7722,East
+160,Sneakers,Sports,404,3,1212,2025-03-03 14:35:07,Debit Card,C5025,South
+161,Desk Lamp,Electronics,79,3,237,2025-03-03 16:52:07,Debit Card,C3433,East
+162,Bluetooth Speaker,Sports,426,1,426,2025-03-09 20:07:07,PayPal,C5529,North
+163,Yoga Mat,Apparel,88,2,176,2025-03-05 12:38:07,Bank Transfer,C1355,East
+164,Wireless Mouse,Kitchen,299,3,897,2025-03-13 08:06:07,Debit Card,C1876,South
+165,Headphones,Sports,192,1,192,2025-03-09 08:18:07,Credit Card,C2699,East
+166,Bluetooth Earbuds,Apparel,242,4,968,2025-03-07 02:54:07,Credit Card,C1661,North
+167,Hair Dryer,Kitchen,418,2,836,2025-03-20 09:46:07,PayPal,C5133,West
+168,Camera,Kitchen,138,2,276,2025-03-11 03:49:07,Debit Card,C9927,North
+169,Running Shoes,Apparel,344,2,688,2025-03-03 10:29:07,Debit Card,C6010,East
+170,Charger,Electronics,247,4,988,2025-03-17 18:54:07,Debit Card,C6767,West
+171,Cooking Pan,Electronics,427,5,2135,2025-03-21 19:37:07,Bank Transfer,C3915,South
+172,Smartwatch,Kitchen,433,5,2165,2025-03-24 12:38:07,Credit Card,C1125,South
+173,Wireless Charger,Apparel,485,4,1940,2025-03-07 23:21:07,Bank Transfer,C9196,North
+174,Wireless Mouse,Kitchen,409,4,1636,2025-03-18 18:46:07,Bank Transfer,C3842,North
+175,Hat,Sports,482,3,1446,2025-02-27 03:22:07,Debit Card,C5345,North
+176,Hat,Footwear,80,1,80,2025-03-24 14:32:07,PayPal,C4331,East
+177,Hat,Accessories,170,4,680,2025-03-07 01:32:07,Debit Card,C8987,West
+178,Fridge,Electronics,479,1,479,2025-03-20 19:30:07,Credit Card,C7990,East
+179,Cooking Pan,Electronics,139,2,278,2025-03-01 22:45:07,Bank Transfer,C9581,North
+180,Sandals,Sports,160,4,640,2025-03-15 03:23:07,Credit Card,C1555,South
+181,Gaming Keyboard,Sports,147,1,147,2025-03-01 05:18:07,Bank Transfer,C1180,West
+182,Wireless Mouse,Apparel,158,3,474,2025-03-13 11:19:07,Debit Card,C9927,West
+183,Iron,Footwear,208,3,624,2025-03-04 15:35:07,Bank Transfer,C9932,West
+184,Laptop Stand,Kitchen,491,5,2455,2025-03-14 10:20:07,Debit Card,C8055,East
+185,Vacuum Cleaner,Accessories,265,3,795,2025-03-13 23:06:07,Bank Transfer,C3921,South
+186,Camera,Electronics,360,4,1440,2025-03-23 07:55:07,Credit Card,C1691,South
+187,Hat,Sports,497,4,1988,2025-03-26 21:12:07,Debit Card,C3040,West
+188,Gaming Keyboard,Sports,345,2,690,2025-02-28 11:45:07,Debit Card,C1146,South
+189,Backpack,Accessories,225,2,450,2025-03-12 02:15:07,Credit Card,C3274,North
+190,Gaming Keyboard,Accessories,92,2,184,2025-03-19 08:39:07,PayPal,C5360,South
+191,Sneakers,Footwear,113,5,565,2025-03-21 09:30:07,Debit Card,C7132,East
+192,Sandals,Electronics,135,4,540,2025-03-06 02:30:07,Bank Transfer,C5103,North
+193,Laptop,Electronics,100,2,200,2025-03-14 19:56:07,PayPal,C4315,South
+194,Air Purifier,Accessories,96,3,288,2025-03-05 05:05:07,PayPal,C2150,North
+195,Sunglasses,Apparel,245,2,490,2025-03-24 15:32:07,Bank Transfer,C1636,West
+196,Gaming Keyboard,Kitchen,114,3,342,2025-03-10 13:33:07,PayPal,C2272,West
+197,Boots,Apparel,257,4,1028,2025-03-13 15:19:07,Bank Transfer,C1885,South
+198,Pillow,Kitchen,265,4,1060,2025-03-04 15:02:07,PayPal,C7113,South
+199,Vacuum Cleaner,Electronics,304,5,1520,2025-03-16 04:55:07,PayPal,C1689,East
+200,Sofa,Accessories,109,2,218,2025-03-01 22:45:07,PayPal,C5464,South
+201,Charger,Accessories,265,2,530,2025-03-26 04:37:07,Debit Card,C1392,North
+202,Curtains,Sports,371,3,1113,2025-03-20 11:17:07,Credit Card,C7029,North
+203,Cooking Pan,Kitchen,302,4,1208,2025-03-12 22:04:07,Bank Transfer,C1267,West
+204,Smart Thermostat,Apparel,15,1,15,2025-03-05 20:59:07,Debit Card,C8830,North
+205,Curtains,Kitchen,342,1,342,2025-03-06 07:31:07,PayPal,C4294,South
+206,Iron,Accessories,221,3,663,2025-03-03 05:25:07,PayPal,C2284,South
+207,Wireless Charger,Accessories,53,1,53,2025-03-27 05:25:07,Credit Card,C3928,West
+208,Hair Dryer,Kitchen,225,3,675,2025-03-04 23:38:07,Debit Card,C9793,West
+209,Gloves,Apparel,53,5,265,2025-03-20 01:41:07,Debit Card,C1218,South
+210,Boots,Kitchen,370,4,1480,2025-03-13 17:34:07,PayPal,C8499,East
+211,Camera,Apparel,456,3,1368,2025-03-14 20:23:07,PayPal,C8443,East
+212,Laptop Stand,Apparel,70,4,280,2025-03-11 19:19:07,Credit Card,C7256,West
+213,Hat,Accessories,413,2,826,2025-03-24 03:50:07,PayPal,C2828,West
+214,Laptop,Footwear,168,1,168,2025-03-23 01:22:07,Bank Transfer,C4315,North
+215,Bluetooth Earbuds,Apparel,264,3,792,2025-03-03 01:31:07,Credit Card,C3312,South
+216,Sofa,Accessories,370,3,1110,2025-02-25 17:39:07,Credit Card,C4626,South
+217,Smartphone,Accessories,222,1,222,2025-03-24 23:05:07,Credit Card,C3556,South
+218,Boots,Sports,52,4,208,2025-03-19 01:07:07,PayPal,C3147,North
+219,Vacuum Cleaner,Apparel,180,1,180,2025-03-06 11:36:07,Credit Card,C7426,West
+220,Charger,Apparel,438,2,876,2025-03-05 12:40:07,Credit Card,C2334,South
+221,Cooking Pan,Electronics,191,4,764,2025-03-23 08:17:07,Bank Transfer,C1915,South
+222,Coffee Maker,Footwear,448,1,448,2025-03-06 20:00:07,PayPal,C7384,South
+223,Backpack,Sports,64,4,256,2025-03-11 11:15:07,Credit Card,C1224,South
+224,Gaming Keyboard,Accessories,497,4,1988,2025-03-23 11:11:07,PayPal,C7721,North
+225,Winter Coat,Accessories,337,5,1685,2025-03-15 16:29:07,PayPal,C4597,South
+226,Wireless Charger,Footwear,499,3,1497,2025-03-05 02:31:07,Credit Card,C7484,North
+227,Coffee Table,Footwear,79,2,158,2025-03-02 05:08:07,PayPal,C6885,North
+228,Charger,Accessories,358,5,1790,2025-02-26 20:46:07,Bank Transfer,C6475,South
+229,Sunglasses,Kitchen,390,2,780,2025-02-26 14:38:07,Bank Transfer,C5378,North
+230,Charger,Kitchen,207,4,828,2025-03-01 16:29:07,Credit Card,C2068,North
+231,Cooking Pan,Footwear,299,1,299,2025-03-05 05:20:07,Bank Transfer,C1439,North
+232,Laptop,Apparel,330,2,660,2025-03-08 14:47:07,PayPal,C5824,East
+233,Cooking Pan,Electronics,283,5,1415,2025-03-20 06:23:07,PayPal,C7551,South
+234,Armchair,Sports,380,4,1520,2025-03-01 05:38:07,Credit Card,C4142,East
+235,Hair Dryer,Footwear,272,2,544,2025-03-07 00:22:07,Debit Card,C5376,East
+236,Hair Dryer,Sports,95,2,190,2025-03-04 15:03:07,PayPal,C5697,West
+237,Laptop Stand,Kitchen,367,1,367,2025-03-06 11:37:07,Credit Card,C6530,West
+238,Refrigerator,Electronics,80,2,160,2025-03-14 11:58:07,PayPal,C2141,North
+239,Cooking Pan,Electronics,202,2,404,2025-03-01 08:01:07,PayPal,C9111,East
+240,Boots,Footwear,101,3,303,2025-02-26 05:14:07,PayPal,C4119,West
+241,Laptop Stand,Kitchen,204,2,408,2025-03-21 21:31:07,Bank Transfer,C7546,North
+242,Boots,Kitchen,355,1,355,2025-03-13 18:14:07,Debit Card,C1484,South
+243,Wireless Charger,Kitchen,449,5,2245,2025-03-15 09:48:07,Credit Card,C9501,East
+244,Water Bottle,Footwear,177,4,708,2025-03-10 20:16:07,Credit Card,C3964,East
+245,Armchair,Sports,77,2,154,2025-03-26 06:51:07,Credit Card,C9314,West
+246,Vacuum Cleaner,Kitchen,321,5,1605,2025-03-16 09:46:07,Bank Transfer,C1127,North
+247,Sunglasses,Electronics,148,5,740,2025-03-14 16:45:07,Credit Card,C9387,West
+248,Charger,Sports,151,1,151,2025-02-25 12:58:07,Bank Transfer,C3189,North
+249,Washing Machine,Footwear,332,3,996,2025-03-23 04:14:07,Credit Card,C7353,North
+250,Backpack,Sports,199,2,398,2025-03-05 17:00:07,Debit Card,C7032,West
+251,Fridge,Sports,430,3,1290,2025-03-05 21:17:07,Credit Card,C7774,North
+252,Boots,Apparel,446,3,1338,2025-03-05 22:21:07,Credit Card,C4918,North
+253,Juicer,Kitchen,421,3,1263,2025-03-24 14:48:07,PayPal,C5139,East
+254,Speakers,Apparel,308,3,924,2025-03-16 00:44:07,PayPal,C7478,North
+255,Fridge,Sports,332,5,1660,2025-03-22 04:00:07,Debit Card,C2694,North
+256,Smartphone,Kitchen,24,4,96,2025-03-24 15:39:07,PayPal,C8969,West
+257,Charger,Sports,388,4,1552,2025-03-11 15:31:07,Bank Transfer,C9943,North
+258,Kettle,Electronics,28,1,28,2025-03-25 08:09:07,PayPal,C2110,South
+259,Backpack,Kitchen,209,4,836,2025-03-21 04:41:07,Bank Transfer,C4038,West
+260,Sandals,Accessories,378,2,756,2025-03-26 12:22:07,PayPal,C6419,North
+261,Sandals,Electronics,159,3,477,2025-03-03 11:11:07,Credit Card,C9868,South
+262,Running Shoes,Footwear,200,1,200,2025-03-12 02:03:07,Credit Card,C8189,South
+263,Boots,Kitchen,235,4,940,2025-03-12 06:19:07,Credit Card,C9879,East
+264,Gloves,Accessories,243,1,243,2025-03-27 03:41:07,PayPal,C7653,West
+265,Running Shoes,Electronics,447,3,1341,2025-03-10 18:23:07,Debit Card,C7985,East
+266,Headphones,Sports,356,3,1068,2025-03-02 18:45:07,Debit Card,C5975,South
+267,Wireless Mouse,Electronics,390,4,1560,2025-03-08 13:18:07,PayPal,C7907,East
+268,Tablet,Kitchen,291,1,291,2025-03-03 20:52:07,Bank Transfer,C3837,North
+269,Laptop,Accessories,410,2,820,2025-03-08 22:11:07,PayPal,C2567,West
+270,Sofa,Electronics,351,5,1755,2025-02-27 10:08:07,Debit Card,C6008,East
+271,Sunglasses,Accessories,271,3,813,2025-03-17 22:39:07,Bank Transfer,C4188,North
+272,Cooking Pan,Sports,389,4,1556,2025-03-14 15:06:07,Credit Card,C3059,West
+273,Armchair,Accessories,410,5,2050,2025-03-27 02:22:07,Credit Card,C4359,West
+274,Microwave,Apparel,96,4,384,2025-03-04 03:45:07,Debit Card,C6697,South
+275,Coffee Maker,Apparel,173,1,173,2025-03-07 22:41:07,Credit Card,C8363,South
+276,Camera,Apparel,86,1,86,2025-03-24 08:20:07,Bank Transfer,C4823,West
+277,Water Bottle,Accessories,122,3,366,2025-03-21 05:37:07,Credit Card,C1977,South
+278,Iron,Apparel,38,5,190,2025-03-02 17:43:07,Debit Card,C6016,South
+279,Kettle,Kitchen,470,2,940,2025-03-12 21:07:07,Credit Card,C4732,South
+280,Hair Dryer,Accessories,250,2,500,2025-03-09 09:52:07,Bank Transfer,C1786,West
+281,Yoga Mat,Footwear,130,3,390,2025-03-15 12:12:07,Debit Card,C6144,East
+282,Gaming Keyboard,Electronics,107,5,535,2025-03-24 05:13:07,Bank Transfer,C6951,East
+283,Smart Thermostat,Footwear,352,4,1408,2025-03-23 09:05:07,Bank Transfer,C2267,North
+284,Blender,Electronics,384,3,1152,2025-02-27 19:39:07,Credit Card,C4208,South
+285,Hair Dryer,Electronics,496,5,2480,2025-03-09 07:43:07,Bank Transfer,C6657,West
+286,Kettle,Sports,321,1,321,2025-03-25 06:04:07,PayPal,C4533,South
+287,Coffee Maker,Accessories,290,2,580,2025-03-06 10:44:07,Bank Transfer,C1254,East
+288,Air Purifier,Kitchen,289,5,1445,2025-03-08 08:58:07,Bank Transfer,C5408,South
+289,Hair Dryer,Footwear,152,2,304,2025-03-18 00:41:07,PayPal,C8530,South
+290,Charger,Apparel,315,4,1260,2025-03-05 03:15:07,PayPal,C3343,West
+291,Headphones,Sports,147,5,735,2025-03-11 11:18:07,Bank Transfer,C4912,North
+292,Curtains,Footwear,217,2,434,2025-03-15 06:16:07,Debit Card,C5262,North
+293,Refrigerator,Electronics,79,5,395,2025-03-06 15:18:07,PayPal,C6769,South
+294,Curtains,Apparel,174,3,522,2025-03-22 10:34:07,Debit Card,C4156,North
+295,Coffee Maker,Accessories,445,1,445,2025-03-10 12:14:07,Debit Card,C2605,South
+296,Fridge,Kitchen,128,4,512,2025-03-27 10:28:07,PayPal,C2774,South
+297,Headphones,Sports,266,2,532,2025-03-01 20:01:07,Credit Card,C4474,West
+298,Bluetooth Speaker,Accessories,288,3,864,2025-03-15 17:57:07,Bank Transfer,C1811,North
+299,Sunglasses,Electronics,242,1,242,2025-03-06 06:42:07,PayPal,C5410,South
+300,Monitor,Footwear,115,4,460,2025-03-15 07:52:07,Debit Card,C9826,West
+301,Yoga Mat,Electronics,314,4,1256,2025-03-20 00:17:07,Debit Card,C7159,East
+302,Curtains,Apparel,343,5,1715,2025-03-01 17:38:07,PayPal,C9065,East
+303,Wireless Charger,Sports,304,2,608,2025-03-23 14:55:07,PayPal,C5799,North
+304,Vacuum Cleaner,Kitchen,169,5,845,2025-03-09 13:14:07,Debit Card,C7691,South
+305,Juicer,Apparel,35,2,70,2025-02-28 08:20:07,PayPal,C5318,West
+306,Desk Lamp,Kitchen,272,2,544,2025-03-21 09:56:07,Debit Card,C4370,South
+307,Wireless Mouse,Sports,391,4,1564,2025-03-20 23:25:07,Bank Transfer,C7702,North
+308,Tablet,Electronics,346,2,692,2025-03-25 08:11:07,Debit Card,C4985,South
+309,Sofa,Electronics,236,1,236,2025-03-04 16:34:07,Credit Card,C9699,West
+310,Cooking Pan,Footwear,273,1,273,2025-03-16 09:47:07,PayPal,C8230,North
+311,Sneakers,Apparel,351,4,1404,2025-03-07 02:45:07,Debit Card,C4555,North
+312,Headphones,Electronics,396,4,1584,2025-03-17 23:51:07,PayPal,C9478,North
+313,Camera,Footwear,26,4,104,2025-03-12 19:05:07,Bank Transfer,C1929,North
+314,Boots,Sports,81,4,324,2025-03-10 11:09:07,Credit Card,C5991,East
+315,Camera,Electronics,232,4,928,2025-03-13 22:08:07,Credit Card,C4698,North
+316,Refrigerator,Accessories,185,5,925,2025-03-11 22:44:07,Debit Card,C2722,South
+317,Coffee Maker,Sports,376,1,376,2025-03-21 02:30:07,PayPal,C6783,South
+318,Vacuum Cleaner,Electronics,42,4,168,2025-03-18 18:11:07,Bank Transfer,C8158,South
+319,Hair Dryer,Electronics,245,3,735,2025-03-23 05:20:07,Debit Card,C7583,North
+320,Curtains,Footwear,451,1,451,2025-03-05 13:32:07,Debit Card,C2421,East
+321,Tablet,Sports,314,3,942,2025-03-11 14:25:07,Bank Transfer,C8473,North
+322,Coffee Maker,Footwear,481,2,962,2025-03-05 19:33:07,Credit Card,C6809,South
+323,Pillow,Electronics,488,4,1952,2025-03-08 12:09:07,Bank Transfer,C3448,West
+324,Tablet,Sports,366,4,1464,2025-03-10 19:09:07,PayPal,C6182,South
+325,Running Shoes,Kitchen,444,2,888,2025-03-11 10:09:07,PayPal,C2235,South
+326,Hair Dryer,Accessories,123,1,123,2025-03-16 19:28:07,PayPal,C6707,North
+327,Charger,Electronics,214,1,214,2025-03-16 20:10:07,Credit Card,C8982,West
+328,Boots,Accessories,313,5,1565,2025-02-26 03:00:07,PayPal,C5526,East
+329,Bluetooth Speaker,Footwear,482,4,1928,2025-03-02 02:28:07,Credit Card,C2932,South
+330,Armchair,Electronics,99,5,495,2025-03-25 12:26:07,PayPal,C3393,East
+331,Iron,Footwear,326,2,652,2025-03-25 19:39:07,Debit Card,C5658,North
+332,Winter Coat,Apparel,238,2,476,2025-03-12 19:18:07,Bank Transfer,C4504,North
+333,Backpack,Electronics,496,3,1488,2025-03-01 01:03:07,PayPal,C6221,South
+334,T-shirt,Apparel,119,4,476,2025-03-02 03:59:07,Credit Card,C8357,East
+335,Coffee Table,Footwear,296,1,296,2025-02-27 05:34:07,Credit Card,C8210,North
+336,T-shirt,Accessories,131,1,131,2025-03-18 23:15:07,Credit Card,C9795,East
+337,Water Bottle,Footwear,464,4,1856,2025-03-15 06:07:07,PayPal,C7980,South
+338,Washing Machine,Electronics,280,1,280,2025-03-06 11:14:07,PayPal,C8633,North
+339,Coffee Maker,Sports,74,5,370,2025-03-09 14:14:07,PayPal,C6365,East
+340,T-shirt,Accessories,258,3,774,2025-03-07 17:14:07,PayPal,C7020,South
+341,Speakers,Sports,212,3,636,2025-03-20 02:29:07,Credit Card,C4597,North
+342,Fridge,Kitchen,495,5,2475,2025-02-27 17:17:07,Debit Card,C5549,North
+343,Hair Dryer,Footwear,390,4,1560,2025-03-16 12:31:07,Debit Card,C6409,North
+344,Bluetooth Speaker,Electronics,309,1,309,2025-03-14 08:09:07,Bank Transfer,C1284,North
+345,Boots,Footwear,381,1,381,2025-02-27 18:19:07,Debit Card,C7543,South
+346,Tablet,Sports,121,3,363,2025-03-09 14:35:07,Bank Transfer,C7238,West
+347,Monitor,Accessories,42,1,42,2025-02-28 15:07:07,Bank Transfer,C2729,East
+348,Refrigerator,Electronics,438,3,1314,2025-03-23 06:47:07,Bank Transfer,C2938,East
+349,Coffee Table,Sports,332,1,332,2025-03-22 23:46:07,Bank Transfer,C6881,South
+350,Speakers,Sports,258,3,774,2025-02-27 10:44:07,PayPal,C3906,West
+351,Tablet,Sports,61,3,183,2025-03-24 19:28:07,Bank Transfer,C7651,West
+352,Yoga Mat,Accessories,90,2,180,2025-03-25 05:36:07,Bank Transfer,C7109,East
+353,Bluetooth Speaker,Accessories,424,1,424,2025-03-10 16:35:07,Debit Card,C2958,North
+354,Cooking Pan,Footwear,208,1,208,2025-03-22 20:27:07,Debit Card,C6802,West
+355,Sneakers,Kitchen,82,5,410,2025-03-16 12:56:07,Bank Transfer,C3656,South
+356,Pillow,Footwear,41,3,123,2025-03-22 23:30:07,PayPal,C5712,South
+357,Hat,Footwear,494,1,494,2025-03-12 02:00:07,Debit Card,C9190,South
+358,Sandals,Accessories,141,5,705,2025-03-10 18:34:07,PayPal,C8682,West
+359,Cooking Pan,Accessories,421,1,421,2025-03-06 14:54:07,PayPal,C1256,South
+360,Smart Scale,Footwear,31,2,62,2025-03-18 03:57:07,PayPal,C6679,East
+361,Blender,Footwear,498,3,1494,2025-03-27 09:56:07,Credit Card,C3102,East
+362,Tablet,Apparel,145,5,725,2025-03-16 11:06:07,Debit Card,C5346,West
+363,Vacuum Cleaner,Accessories,382,2,764,2025-03-23 15:01:07,Bank Transfer,C1018,West
+364,Cooking Pan,Kitchen,32,1,32,2025-03-09 18:32:07,Bank Transfer,C4788,West
+365,Yoga Mat,Footwear,180,5,900,2025-03-23 00:07:07,Bank Transfer,C9895,North
+366,Smartphone,Sports,165,2,330,2025-03-09 00:45:07,Bank Transfer,C8576,East
+367,Yoga Mat,Sports,317,5,1585,2025-03-10 00:24:07,PayPal,C7272,West
+368,Juicer,Footwear,156,4,624,2025-03-14 07:20:07,Debit Card,C6781,East
+369,Laptop,Accessories,200,3,600,2025-03-04 11:20:07,Debit Card,C2084,South
+370,Headphones,Sports,54,5,270,2025-03-10 23:21:07,PayPal,C4528,North
+371,T-shirt,Kitchen,273,5,1365,2025-03-26 18:28:07,Bank Transfer,C1945,East
+372,Camera,Apparel,311,1,311,2025-03-01 01:18:07,Debit Card,C7134,West
+373,Laptop,Apparel,136,5,680,2025-03-18 21:34:07,Bank Transfer,C4367,North
+374,Yoga Mat,Apparel,95,5,475,2025-03-06 03:27:07,Debit Card,C5609,North
+375,Coffee Maker,Sports,146,3,438,2025-03-17 09:44:07,Credit Card,C8030,South
+376,Running Shoes,Accessories,177,3,531,2025-02-28 05:27:07,PayPal,C6486,East
+377,Hair Dryer,Electronics,454,2,908,2025-03-24 16:00:07,Credit Card,C6118,East
+378,Winter Coat,Kitchen,104,3,312,2025-03-08 21:32:07,Bank Transfer,C5981,East
+379,Curtains,Apparel,89,4,356,2025-03-08 18:49:07,Debit Card,C9380,North
+380,Desk Lamp,Electronics,150,3,450,2025-03-13 03:54:07,Credit Card,C9493,North
+381,Monitor,Kitchen,380,1,380,2025-03-05 04:11:07,Debit Card,C9040,South
+382,Blender,Footwear,300,2,600,2025-03-11 14:18:07,Bank Transfer,C1402,East
+383,Sunglasses,Apparel,282,1,282,2025-02-27 06:51:07,Debit Card,C4270,North
+384,Sandals,Apparel,369,5,1845,2025-03-10 13:44:07,Debit Card,C7063,East
+385,Sunglasses,Sports,362,1,362,2025-03-20 12:35:07,PayPal,C8827,East
+386,Charger,Footwear,246,5,1230,2025-03-14 10:55:07,Bank Transfer,C7745,East
+387,Water Bottle,Electronics,24,4,96,2025-03-17 10:19:07,Debit Card,C2791,East
+388,Coffee Maker,Accessories,87,1,87,2025-03-18 16:58:07,Credit Card,C8338,North
+389,Sandals,Kitchen,44,1,44,2025-03-03 01:10:07,PayPal,C2630,South
+390,Backpack,Accessories,448,1,448,2025-03-18 17:20:07,Debit Card,C8916,East
+391,Armchair,Sports,241,5,1205,2025-03-11 13:55:07,Credit Card,C8831,West
+392,Gaming Keyboard,Electronics,18,4,72,2025-03-10 10:26:07,Bank Transfer,C5933,North
+393,Refrigerator,Kitchen,392,4,1568,2025-03-13 02:00:07,Debit Card,C7805,East
+394,Sandals,Footwear,166,4,664,2025-03-26 02:44:07,Bank Transfer,C4634,North
+395,Hair Dryer,Electronics,382,2,764,2025-03-25 18:54:07,Debit Card,C4195,South
+396,Boots,Accessories,190,2,380,2025-03-07 18:21:07,Debit Card,C6790,East
+397,Sofa,Sports,236,5,1180,2025-03-12 07:43:07,Debit Card,C1250,North
+398,Boots,Apparel,486,4,1944,2025-03-18 10:44:07,PayPal,C7742,North
+399,Pillow,Kitchen,46,3,138,2025-03-19 01:35:07,PayPal,C5553,East
+400,Gaming Keyboard,Apparel,323,5,1615,2025-03-13 11:42:07,PayPal,C9075,North
+401,Water Bottle,Footwear,169,3,507,2025-03-15 22:43:07,Credit Card,C3874,South
+402,Running Shoes,Electronics,55,3,165,2025-03-04 12:08:07,PayPal,C5297,North
+403,Sandals,Apparel,33,4,132,2025-03-02 10:33:07,Bank Transfer,C6079,South
+404,Laptop Stand,Kitchen,248,4,992,2025-03-08 11:36:07,Bank Transfer,C4414,East
+405,Wireless Mouse,Apparel,218,3,654,2025-03-05 05:42:07,Bank Transfer,C2022,South
+406,Washing Machine,Footwear,303,5,1515,2025-03-17 04:53:07,Credit Card,C5388,West
+407,Fridge,Sports,128,4,512,2025-03-16 18:22:07,Bank Transfer,C6574,West
+408,Wireless Charger,Kitchen,337,3,1011,2025-03-18 00:09:07,Credit Card,C1078,South
+409,Iron,Footwear,191,5,955,2025-03-19 21:16:07,Bank Transfer,C7544,West
+410,Running Shoes,Apparel,88,5,440,2025-03-05 01:07:07,Debit Card,C7494,North
+411,Pillow,Apparel,400,3,1200,2025-03-26 16:02:07,Debit Card,C8589,North
+412,Air Purifier,Apparel,70,3,210,2025-02-27 15:27:07,Debit Card,C9983,North
+413,Washing Machine,Kitchen,296,5,1480,2025-03-27 03:43:07,Bank Transfer,C6380,West
+414,Charger,Accessories,24,4,96,2025-03-01 21:57:07,Credit Card,C8592,North
+415,Desk Lamp,Accessories,129,1,129,2025-02-26 11:20:07,Bank Transfer,C6876,North
+416,Laptop,Accessories,301,5,1505,2025-03-16 18:49:07,Bank Transfer,C2436,West
+417,Juicer,Apparel,496,1,496,2025-03-08 13:38:07,Debit Card,C6735,South
+418,Blender,Accessories,128,5,640,2025-03-08 02:26:07,PayPal,C9441,East
+419,Juicer,Accessories,411,5,2055,2025-02-27 06:12:07,Credit Card,C3863,North
+420,Juicer,Apparel,57,2,114,2025-03-25 03:05:07,Bank Transfer,C3401,North
+421,Hat,Kitchen,299,3,897,2025-03-21 14:34:07,Debit Card,C4398,South
+422,Sofa,Accessories,135,4,540,2025-03-21 12:28:07,Debit Card,C5482,West
+423,Winter Coat,Accessories,111,1,111,2025-02-25 18:59:07,PayPal,C9819,East
+424,Laptop,Accessories,152,4,608,2025-03-19 18:07:07,Bank Transfer,C4245,South
+425,Microwave,Accessories,254,5,1270,2025-03-24 23:07:07,Credit Card,C4041,West
+426,Headphones,Sports,207,1,207,2025-03-10 16:52:07,Debit Card,C4960,North
+427,Washing Machine,Electronics,10,5,50,2025-03-22 06:45:07,Credit Card,C8139,South
+428,Washing Machine,Kitchen,57,2,114,2025-02-27 17:16:07,Bank Transfer,C3659,South
+429,Monitor,Sports,489,1,489,2025-03-22 00:51:07,Credit Card,C1109,East
+430,Smartwatch,Kitchen,376,2,752,2025-03-08 16:24:07,Debit Card,C4756,South
+431,Wireless Mouse,Electronics,339,3,1017,2025-03-22 16:44:07,Bank Transfer,C6835,West
+432,Refrigerator,Footwear,432,2,864,2025-03-01 09:33:07,Bank Transfer,C2562,North
+433,Headphones,Footwear,434,4,1736,2025-03-11 12:11:07,Bank Transfer,C7006,West
+434,Bluetooth Speaker,Accessories,200,3,600,2025-02-27 18:28:07,PayPal,C8294,West
+435,Wireless Mouse,Apparel,203,3,609,2025-03-25 14:35:07,Bank Transfer,C2985,East
+436,Refrigerator,Apparel,68,2,136,2025-03-18 01:15:07,PayPal,C3102,East
+437,Smart Thermostat,Kitchen,257,4,1028,2025-03-12 13:44:07,Credit Card,C7206,North
+438,Armchair,Sports,130,4,520,2025-03-18 21:45:07,Credit Card,C7377,West
+439,Boots,Apparel,243,5,1215,2025-03-21 17:35:07,Debit Card,C9022,North
+440,Laptop Stand,Sports,458,4,1832,2025-03-04 20:13:07,Debit Card,C4740,West
+441,Gaming Keyboard,Kitchen,417,4,1668,2025-03-16 14:19:07,Debit Card,C1134,North
+442,Smart Thermostat,Accessories,291,1,291,2025-03-17 07:28:07,PayPal,C6509,South
+443,Armchair,Accessories,391,2,782,2025-02-28 14:02:07,Credit Card,C6412,South
+444,Desk Lamp,Apparel,342,3,1026,2025-03-18 17:18:07,Bank Transfer,C2794,North
+445,Sneakers,Footwear,178,5,890,2025-02-28 04:37:07,Debit Card,C7874,South
+446,Coffee Maker,Electronics,300,1,300,2025-03-12 09:01:07,Credit Card,C2158,West
+447,Vacuum Cleaner,Footwear,341,5,1705,2025-03-09 11:19:07,PayPal,C4145,South
+448,Bluetooth Speaker,Kitchen,370,4,1480,2025-03-21 05:41:07,Bank Transfer,C4964,South
+449,Smart Scale,Kitchen,287,5,1435,2025-03-23 06:18:07,PayPal,C9438,East
+450,Smart Scale,Electronics,150,1,150,2025-03-14 14:43:07,Debit Card,C1727,North
+451,Bluetooth Speaker,Electronics,183,3,549,2025-03-17 14:55:07,PayPal,C7268,North
+452,Bluetooth Earbuds,Sports,256,4,1024,2025-03-10 22:01:07,Debit Card,C6474,North
+453,Tablet,Sports,445,4,1780,2025-03-05 02:23:07,Credit Card,C1797,West
+454,Smart Scale,Kitchen,173,2,346,2025-03-13 01:30:07,Credit Card,C2879,West
+455,Desk Lamp,Electronics,387,4,1548,2025-03-23 17:46:07,Credit Card,C9038,East
+456,Running Shoes,Footwear,466,2,932,2025-03-17 02:03:07,PayPal,C1317,East
+457,Wireless Mouse,Electronics,383,3,1149,2025-03-13 15:37:07,Bank Transfer,C5111,South
+458,Hat,Kitchen,448,1,448,2025-02-27 22:05:07,Credit Card,C8872,South
+459,Bluetooth Earbuds,Footwear,261,5,1305,2025-03-01 16:36:07,Debit Card,C6266,West
+460,Bluetooth Earbuds,Apparel,15,3,45,2025-03-07 10:58:07,Bank Transfer,C5787,West
+461,Wireless Charger,Apparel,409,4,1636,2025-03-05 00:06:07,Debit Card,C4726,West
+462,Sneakers,Accessories,68,5,340,2025-03-08 16:11:07,Debit Card,C1081,West
+463,Camera,Kitchen,438,5,2190,2025-03-12 03:22:07,PayPal,C5158,East
+464,Bluetooth Speaker,Footwear,159,1,159,2025-03-02 12:53:07,PayPal,C2295,East
+465,Pillow,Apparel,33,1,33,2025-03-26 17:52:07,PayPal,C3266,West
+466,Backpack,Electronics,185,5,925,2025-03-19 22:41:07,Bank Transfer,C3236,North
+467,Blender,Footwear,120,1,120,2025-03-04 20:18:07,Credit Card,C7595,North
+468,Sunglasses,Apparel,250,1,250,2025-03-14 18:31:07,Debit Card,C4454,South
+469,Fridge,Kitchen,20,1,20,2025-03-18 05:17:07,Bank Transfer,C7518,East
+470,T-shirt,Apparel,292,1,292,2025-02-25 21:05:07,PayPal,C5444,South
+471,Camera,Accessories,206,3,618,2025-03-25 01:33:07,Bank Transfer,C3865,South
+472,Refrigerator,Sports,43,1,43,2025-03-17 05:24:07,PayPal,C8840,South
+473,Smart Scale,Sports,62,4,248,2025-03-02 08:54:07,Bank Transfer,C3728,West
+474,Cooking Pan,Footwear,406,1,406,2025-02-26 09:41:07,Credit Card,C9436,West
+475,Blender,Sports,191,5,955,2025-03-19 21:12:07,Debit Card,C6768,East
+476,Blender,Accessories,445,5,2225,2025-02-25 12:19:07,Debit Card,C7114,East
+477,Sneakers,Kitchen,236,5,1180,2025-03-10 16:42:07,PayPal,C4107,West
+478,Hair Dryer,Sports,295,5,1475,2025-02-27 09:33:07,Bank Transfer,C1562,East
+479,Sofa,Kitchen,94,4,376,2025-03-04 22:32:07,PayPal,C4275,West
+480,Gloves,Electronics,181,2,362,2025-02-25 17:50:07,Bank Transfer,C3892,South
+481,Gloves,Apparel,11,4,44,2025-03-20 13:59:07,Bank Transfer,C4138,West
+482,Air Purifier,Accessories,17,1,17,2025-03-18 05:49:07,Bank Transfer,C6155,South
+483,Wireless Charger,Apparel,223,1,223,2025-03-26 06:11:07,Bank Transfer,C3641,West
+484,Coffee Table,Kitchen,376,2,752,2025-03-01 07:48:07,Credit Card,C7962,West
+485,T-shirt,Sports,169,2,338,2025-03-07 08:37:07,Credit Card,C3678,North
+486,Sandals,Accessories,136,4,544,2025-03-14 09:38:07,Bank Transfer,C3427,North
+487,Smart Scale,Kitchen,241,5,1205,2025-02-27 05:33:07,Credit Card,C2446,East
+488,Vacuum Cleaner,Sports,471,4,1884,2025-03-13 13:44:07,Debit Card,C6469,East
+489,Gloves,Accessories,61,1,61,2025-03-08 10:25:07,Credit Card,C6066,North
+490,Tablet,Sports,166,5,830,2025-03-23 20:15:07,Debit Card,C7240,North
+491,Juicer,Footwear,111,4,444,2025-03-13 09:20:07,Credit Card,C5060,East
+492,Headphones,Electronics,136,3,408,2025-03-26 13:45:07,Bank Transfer,C7189,West
+493,Sunglasses,Apparel,113,4,452,2025-03-11 01:05:07,PayPal,C9338,West
+494,Yoga Mat,Footwear,11,2,22,2025-03-21 10:32:07,Credit Card,C3463,West
+495,Fridge,Apparel,185,3,555,2025-03-14 02:34:07,Bank Transfer,C4748,East
+496,Jacket,Sports,344,1,344,2025-02-28 17:58:07,Debit Card,C2796,South
+497,Tablet,Apparel,212,1,212,2025-03-08 14:29:07,Debit Card,C5814,East
+498,Vacuum Cleaner,Kitchen,49,5,245,2025-03-19 08:17:07,Credit Card,C7923,South
+499,Gloves,Accessories,78,2,156,2025-03-19 21:00:07,Debit Card,C4222,East
+500,Winter Coat,Apparel,127,3,381,2025-03-14 00:05:07,Debit Card,C3989,North
